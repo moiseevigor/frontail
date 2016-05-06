@@ -1,8 +1,12 @@
 {
     "words": {
-        "err": "color: red;"
+        "NOTICE": "color: brown;",
+        "VERBOSE": "color: green;",
+        "WARNING": "color: red;",
+        "ERROR": "color: red;"
     },
     "lines": {
-        "err": "font-weight: bold;"
+        "ERROR": "font-weight: bold;",
+        "DEBUG": "color: gray;"
     }
 }
